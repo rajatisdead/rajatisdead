@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajat Singh</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
 
-- 🔭 I’m currently working on [Android Transliteration Application](https://github.com/rajatisdead/Kid-Magazine-Android_App)
+- 🔭 I’m currently working on [Android Transliteration Application](https://github.com/rajatisdead/Kids-magazine-app.git)
 
 - 🌱 I’m currently learning **Natural Language Processing, Data Science**
 
